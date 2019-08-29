@@ -1,5 +1,5 @@
 /**
- * Author: Eric Vander Woude and 
+ * Author: Eric Vander Woude 
  * Date: 2019/27/08
  *
  * A simple hello world program in C
@@ -10,8 +10,8 @@
 
 int main(int argc, char **argv) {
 
-  printf("Eric Vander Woude and _\n");
-  printf("Mechanical Engineering\n");
+  printf("Eric Vander Woude\n");
+  printf("Major:xxx\n");
   
   return 0;
 }
